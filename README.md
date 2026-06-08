@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Byagari Sai Krishna 👋
 
-<!--
-**saikrishna-dev02/saikrishna-dev02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Full Stack Developer
 
-Here are some ideas to get you started:
+Passionate MCA student focused on building responsive web applications, solving programming problems, and creating real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+* Python
+* HTML
+* CSS
+* JavaScript
+* Django
+* SQL
+* Git & GitHub
+* Vercel Deployment
+* Object-Oriented Programming
+* Data Structures & Algorithms
+
+---
+
+## 🔥 Projects
+
+### 🛒 Lumen Ecommerce Project
+
+Responsive Ecommerce web application with:
+
+* Product search
+* Category filtering
+* Cart functionality
+* localStorage support
+
+🔗 Live Demo:
+https://lumen-ecommerce-project.vercel.app
+
+🔗 GitHub Repository:
+https://github.com/saikrishna-dev02/lumen-ecommerce-project
+
+---
+
+### 🌐 Personal Portfolio Website
+
+Modern responsive portfolio website with:
+
+* Smooth scrolling
+* Modern UI
+* Skills showcase
+* Contact section
+* Resume integration
+
+🔗 Live Portfolio:
+https://lumen-ecommerce-project-hgkd.vercel.app
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn:
+  https://www.linkedin.com/in/saikrishna-dev07
+
+* GitHub:
+  https://github.com/saikrishna-dev02
+
+* Email:
+  [krishnaroy0354@gmail.com](mailto:krishnaroy0354@gmail.com)
